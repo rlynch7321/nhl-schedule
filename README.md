@@ -15,6 +15,6 @@ When displaying a game, there are three cases:
  - The program will display the teams that played and their final scores, as well as an indication of whether the game went to overtime or a shootout (FINAL, FINAL OT, or FINAL SO)
 
 
-This code was not prepared for plug-and-play use. It is only intended to share the source code that runs my LED board. The project is very much a work in progress.
+This code was not prepared for plug-and-play use. It is only intended to share the source code that runs my LED board. While the main functionality is working as intended, the project is very much a work in progress and I am still working to improve it.
 
-This project was my second ever Python project and one of the deepest dives into python that I've taken. My first experiment was a simple Reddit bot that could perform actions on the website via the command line. I have no classroom Python experience but I've really come to enjoy teaching myself the language.
+This project was my second ever Python project. My first experiment was a simple Reddit bot that could perform actions on the website via the command line. I have no classroom Python experience but I've really come to enjoy teaching myself the language.
