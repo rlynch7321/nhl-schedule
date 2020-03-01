@@ -2,7 +2,7 @@
 
 ![Brief showcase of the scoreboard](https://github.com/rlynch7321/nhl-schedule/blob/master/showcase.gif)
 
-This repository contains some source code for a python program that access the NHL's official API to retrieve scores and render them onto an LED matrix.
+This repository contains some source code for a Python program that access the NHL's official API to retrieve scores and render them onto an LED matrix.
 
 When the program is first run, it gets the current day's schedule and displays each game for 5 seconds.
 
@@ -16,3 +16,5 @@ When displaying a game, there are three cases:
 
 
 This code was not prepared for plug-and-play use. It is only intended to share the source code that runs my LED board. The project is very much a work in progress.
+
+This project was my second ever Python project and one of the deepest dives into python that I've taken. My first experiment was a simple Reddit bot that could perform actions on the website via the command line. I have no classroom Python experience but I've really come to enjoy teaching myself the language.
